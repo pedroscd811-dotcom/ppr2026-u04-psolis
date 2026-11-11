@@ -108,3 +108,5 @@ end
 '''
     archivo=carpeta/f'{dispositivo["nombre"]}.txt'
     archivo.write_text(configuracion,encoding="utf-8")
+
+    #PEDRO EMANUEL SOLIS CAMARA Y DOMINGUEZ LITIID43
